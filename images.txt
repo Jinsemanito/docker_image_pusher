@@ -7,3 +7,4 @@
 bitnami/kafka:3.8.0
 rabbitmq:3.10.6-management
 rabbitmq:3.13-management
+keking/kkfileview-jdk:latest
