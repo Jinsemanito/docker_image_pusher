@@ -10,4 +10,5 @@ rabbitmq:3.13-management
 openjdk:8-jdk
 ubuntu:24.04
 keking/kkfileview-jdk:latest
-shadowsocks/shadowsocks-libev
+shadowsocks/shadowsocks-libev:latest
+serjs/go-socks5-proxy:latest
