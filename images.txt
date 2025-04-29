@@ -11,3 +11,4 @@ openjdk:8-jdk
 ubuntu:24.04
 keking/kkfileview-jdk:latest
 mikeyburkman/danted
+shadowsocks/shadowsocks-libev
