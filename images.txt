@@ -12,3 +12,4 @@ ubuntu:24.04
 keking/kkfileview-jdk:latest
 shadowsocks/shadowsocks-libev:latest
 serjs/go-socks5-proxy:latest
+provectuslabs/kafka-ui:latest
