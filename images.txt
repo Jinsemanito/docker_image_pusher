@@ -13,3 +13,4 @@ keking/kkfileview-jdk:latest
 shadowsocks/shadowsocks-libev:latest
 serjs/go-socks5-proxy:latest
 provectuslabs/kafka-ui:latest
+bitnami/mongodb:8.0.9
